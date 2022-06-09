@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @guslares
-- 👀 I’m interested in backend and frontned.
+- 👀 I’m interested in backend and frontend.
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
